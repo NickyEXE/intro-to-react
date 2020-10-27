@@ -1,0 +1,11 @@
+- Start with docs
+- Demonstrate node
+- Demonstrate create-react-app
+- Start at index.js
+- Discuss import syntax with npm
+-- JSX: Part of the React library
+-- Discuss export syntax through App
+-- Point out that it's exported as a function, used as a component
+-- console.log a JSX component
+
+- Show
